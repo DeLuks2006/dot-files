@@ -143,7 +143,7 @@ screens = [
                 widget.Systray(),
                 widget.CurrentLayout(background="#9580ff"),
                 widget.Net(interface="enp0s3",background="#6272a4"), #FIX THIS
-                widget.Clock(background="#9580ff",format="%d.%m.%Y  %H:%M ")
+                widget.Clock(background="#9580ff",format="%d.%m.%Y  %H:%M "),
                 widget.QuickExit(background="#6272a4"),
             ],
             24,
