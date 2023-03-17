@@ -1,0 +1,3 @@
+# Qtile Configs
+
+here im going to post all of my Qtile configs...
