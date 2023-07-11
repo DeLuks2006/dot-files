@@ -7,4 +7,4 @@ i3 rice:
 ![...](https://github.com/DeLuks2006/Linux_Configs/blob/main/rice2.png)
 ![...](https://github.com/DeLuks2006/Linux_Configs/blob/main/rice.png)
 
-(Yes I am using a Virtual Machiney I will dualboot soon tho...)
+(Yes I am using a Virtual Machine. I will dualboot soon tho...)
