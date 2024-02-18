@@ -6,3 +6,6 @@
 - terminal - kitty
 - file manager - ranger
 - font - FireCodeNerdFont
+
+# Screenshots
+![rice](rice.png)
