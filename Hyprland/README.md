@@ -4,4 +4,5 @@
 - wm  - hyprland
 - editor - nvim (nvchad)
 - terminal - kitty
-- file manager ranger
+- file manager - ranger
+- font - FireCodeNerdFont
