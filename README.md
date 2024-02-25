@@ -1,4 +1,4 @@
-# New Hyprland Rice
+# Simple Hyprland Rice
 
 - bar - waybar
 - wm  - hyprland
